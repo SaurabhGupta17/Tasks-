@@ -61,9 +61,6 @@ Kaiburr Tasks
 
 ![DockerContainer](/screenshots/task3dockerServExcAndLogs.PNG)
 
-## Task 4
-
-![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
 Link to live Application and Rest Endpoints:
 
