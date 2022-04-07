@@ -1,6 +1,6 @@
 # Kaiburr
 
-Kaiburr Assessment Tasks
+Kaiburr Tasks
 
 ## Tasks Completed
 
@@ -10,8 +10,6 @@ Kaiburr Assessment Tasks
 - [x] [Task 4. WEB UI Forms](/task4)
 
 ## High-level Directory Overview
-
-imbipulkumar <br/>
 ├───Kaiburr <br/>
     ├───screenshots	//Tasks I/O Screenshots and GIF <br/>
     ├───spring-server-generated //Task 2 Source Code and Documentation <br/>
