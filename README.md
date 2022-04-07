@@ -63,8 +63,6 @@ Kaiburr Tasks
 
 ## Task 4
 
-**GOTO:**	[Task 4 Source Code and Documentation](/task4)
-
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
 Link to live Application and Rest Endpoints:
