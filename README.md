@@ -63,12 +63,3 @@ Kaiburr Tasks
 ## Task 4
 
 ![task4WebUIForm](https://user-images.githubusercontent.com/77049553/162122750-b3e12218-23b6-4ecd-a14b-79dd968e6eff.png)
-
-
-Link to live Application and Rest Endpoints:
-
-**GOTO Web App:**	[3.18.207.40](http://3.18.207.40/)
-
-**GOTO Swagger UI:** (OpenAPI Doc)	[3.18.207.40:8081/servers/](http://3.18.207.40:8081/servers/)
-
-**GOTO Rest Endpoints:**	[3.18.207.40:8080/servers/getServer](http://3.18.207.40:8080/servers/getServer)
